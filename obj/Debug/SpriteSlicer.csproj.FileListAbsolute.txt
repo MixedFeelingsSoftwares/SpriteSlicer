@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\bin\Debug\SpriteSlicer.exe.config
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\bin\Debug\SpriteSlicer.exe
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\bin\Debug\SpriteSlicer.pdb
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.exe
+C:\Users\marti\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.pdb
